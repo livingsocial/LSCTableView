@@ -6,7 +6,7 @@
 
 This is an open reimplementation of `UITableView` that strives to be a high performance, API-compatible, drop-in replacement class.
 
-**This project is supported by this tutorial article: **
+**This project is supported by this tutorial article:**
 [LSCTableView: Building an Open, Drop-in Replacement of UITableView](https://techblog.livingsocial.com/blog/2013/12/02/lsctableview-building-an-open/)
 
 
