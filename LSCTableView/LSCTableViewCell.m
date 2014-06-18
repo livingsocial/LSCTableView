@@ -64,6 +64,8 @@
 
 - (void)layoutSubviews
 {
+    [super layoutSubviews];
+    
     if(_textLabel)
     {
         CGRect boundsRect = self.bounds;
